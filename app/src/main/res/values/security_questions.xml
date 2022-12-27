@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="security_questions">
-        <item>In what city were you born?</item>
-        <item>What is your favorite sport?</item>
-        <item>What is your favorite fruit?</item>
-        <item>What is your favorite animal?</item>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="security_questions" android:textColor="@color/teal_200" >
+        <item  >In what city were you born?</item>
+        <item >What is your favorite sport?</item>
+        <item >What is your favorite fruit?</item>
+        <item >What is your favorite animal?</item>
     </string-array>
 </resources>
